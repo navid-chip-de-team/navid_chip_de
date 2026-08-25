@@ -1,0 +1,15 @@
+{
+    "name": "navid-chip-de",
+    "version": "0.1.0",
+    "description": "Unternehmenswebseite fuer www.navid.chip.de (Scrum-Projekt, Sprint 1: Fundament & Design)",
+    "private": true,
+    "scripts": {
+          "start": "npx serve . -l 3000",
+          "build": "echo Statische Seite, kein Build-Schritt notwendig"
+    },
+    "devDependencies": {
+          "serve": "^14.2.1"
+    },
+    "author": "Team navid_chip_de",
+    "license": "UNLICENSED"
+}
